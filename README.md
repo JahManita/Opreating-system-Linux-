@@ -1,1 +1,1 @@
-# Opreating-system-Inter_process_communication
+# Opreating-system-(Inter process communication)
