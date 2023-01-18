@@ -21,7 +21,7 @@ A producer-consumer problem requiring a single process solution using threads wi
 
 - Result
   - Provided the probability of deadlock vs queue depth graph which is close to linear. 
-  -
+  
   - Observed that the higher the queue depth, the lower the chance of getting a deadlock. This experiment was similar to project#1.
   
   - My 50% deadlock queue size is 5100. I used the 5100th queue size depth when collecting data from each dozen donuts. I ran with 5 configurations which are 5000, 
